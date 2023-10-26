@@ -2,7 +2,7 @@
 No login. Practicing react router with leaflet library.
 <br />
 
-<h2>Languages and Utilities Used</h2>
+<h2>Libraries and Utilities Used</h2>
 
 - <b>React</b>
 - <b>React Router</b>
